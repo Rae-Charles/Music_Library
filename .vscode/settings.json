@@ -1,0 +1,5 @@
+{
+    "extensions.ignoreRecommendations": true,
+    "python.analysis.autoImportCompletions": false,
+    "python.analysis.completeFunctionParens": true
+}
